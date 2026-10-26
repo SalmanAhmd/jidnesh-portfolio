@@ -1,5 +1,7 @@
 import { ImageResponse } from "next/og";
 
+export const dynamic = "force-static";
+
 export const alt =
   "Jidnesh Patil — Lead QA Engineer. Confidence is a release requirement.";
 export const size = { width: 1200, height: 630 };

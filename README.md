@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Jidnesh Patil — Portfolio
+
+## Deploy to GitHub Pages
+
+The site is exported as a static site to `out/` and deployed by the GitHub
+Actions workflow in `.github/workflows/deploy.yml`. The workflow runs on pushes
+to `main` and can also be started manually from the Actions tab.
+
+In the repository's **Settings → Pages**, set **Build and deployment → Source**
+to **GitHub Actions**. After that, push to `main` or run **Deploy to GitHub
+Pages** in the Actions tab. The project site will be available at
+<https://salmanahmd.github.io/jidnesh-portfolio/>.
 
 ## Getting Started
 

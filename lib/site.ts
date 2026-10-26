@@ -7,7 +7,7 @@ export function getSiteUrl(): string {
     return `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`;
   }
 
-  return "http://localhost:3000";
+  return "https://salmanahmd.github.io/jidnesh-portfolio";
 }
 
 export const siteDescription =

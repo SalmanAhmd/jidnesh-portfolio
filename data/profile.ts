@@ -16,7 +16,7 @@ export const profile = {
   email: "jidneshpatil2324@gmail.com",
   linkedin: "https://www.linkedin.com/in/jidnesh-patil-9a1256200",
   resume: {
-    path: "/resume/Jidnesh-Patil-Resume.pdf",
+    path: "resume/Jidnesh-Patil-Resume.pdf",
     label: "Jidnesh-Patil-Resume.pdf",
     meta: "PDF · 1.3 MB",
   },
